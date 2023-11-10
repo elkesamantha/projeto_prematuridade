@@ -4,12 +4,12 @@
 Este projeto junta a base de dados SIMDOFET e SINASC em uma única base de dados.
 
 ## Índice
-- [Links Bases](#Links Bases)
+- [Links Bases](#Links)
 - [Instalação](#instalação)
 - [Configuração](#configuração)
 - [Uso](#uso)
 - 
-## Links Bases
+## Links
 Link para o drive com as bases de dados ETLSIM.DOFET e df_SIMDOFET_SINASC.zip:
 [ETLSIM.DOFET e df_SIMDOFET_SINASC.zip ](https://drive.google.com/drive/folders/13Wy_rsDcwt0Iy1mqjBeaAiGVWiBXBQlw?usp=drive_linkk)
 - ETLSIM.DOFET é a pasta zip com os csvs da SIMDOFET separada.

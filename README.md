@@ -4,7 +4,7 @@
 Este projeto junta a base de dados SIMDOFET e SINASC em uma única base de dados.
 
 ## Índice
--[Links Bases](#Links)
+- [Links Bases](#Links)
 - [Instalação](#instalação)
 - [Configuração](#configuração)
 - [Uso](#uso)

@@ -7,7 +7,10 @@ pastas = [
     'SINASC_2018_ate_2020',
     'SINASC_2018_ate_2020_estados',
     'SINASC_2018_ate_2020_estados_processado',
-    'SINASC_concatenada_final'
+    'SINASC_concatenada_final',
+    'SIM_2018_ate_2020',
+    'SIM_2018_ate_2020_processados',
+    'SIM_concatenada'
 ]
 
 # Diretório onde as pastas serão criadas
